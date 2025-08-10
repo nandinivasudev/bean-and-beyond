@@ -30,7 +30,7 @@ coffee-cafe/
 ---
 
 ## 🖼 Preview
-![bean and beyond](preview)
+![bean and beyond](preview.png)
 
 
 ---
